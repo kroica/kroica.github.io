@@ -1,0 +1,12 @@
+body{
+    background-color: #202020;
+}
+
+h1{
+    color: white
+}
+
+.tall-btn{
+    padding: 10% 0;
+    font-size: 35px
+}
