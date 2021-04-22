@@ -10,3 +10,7 @@ h1{
     padding: 5% 0;
     font-size: 35px
 }
+
+.hide{
+    display: none;
+}
